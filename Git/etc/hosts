@@ -1,0 +1,40 @@
+# Copyright (c) 1993-2009 Microsoft Corp.
+#
+# This is a sample HOSTS file used by Microsoft TCP/IP for Windows.
+#
+# This file contains the mappings of IP addresses to host names. Each
+# entry should be kept on an individual line. The IP address should
+# be placed in the first column followed by the corresponding host name.
+# The IP address and the host name should be separated by at least one
+# space.
+#
+# Additionally, comments (such as these) may be inserted on individual
+# lines or following the machine name denoted by a '#' symbol.
+#
+# For example:
+#
+#      102.54.94.97     rhino.acme.com          # source server
+#       38.25.63.10     x.acme.com              # x client host
+
+# localhost name resolution is handled within DNS itself.
+#	127.0.0.1       localhost
+#	::1             localhost
+221.122.88.132   zoom.us          
+221.122.88.132   www.zoom.us      
+221.122.88.132   www3.zoom.us     
+221.122.89.180   xmpp002.zoom.us  
+221.122.89.180   xmpp003.zoom.us  
+221.122.89.180   xmpp004.zoom.us  
+221.122.89.180   xmpp005.zoom.us  
+221.122.89.180   xmpp006.zoom.us  
+221.122.89.180   xmpp007.zoom.us  
+221.122.89.180   xmpp008.zoom.us  
+221.122.89.180   xmpp009.zoom.us  
+221.122.89.180   xmpp010.zoom.us  
+221.122.89.180   xmpp011.zoom.us  
+221.122.89.180   xmpp012.zoom.us  
+221.122.89.180   xmpp013.zoom.us  
+221.122.89.180   xmpp014.zoom.us  
+221.122.89.180   xmpp015.zoom.us  
+221.122.89.231   xmppapi.zoom.us  
+100.77.252.14	gitlab.local-cmes.com 
